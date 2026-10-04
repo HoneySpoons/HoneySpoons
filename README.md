@@ -4,6 +4,11 @@ Design engineer in construction. I build small tools that make their own working
 legible — and I'd rather ship something a person can read end to end than something
 that needs a build step to explain itself.
 
+**[Tetracube](https://tetracube.fun)** · [source](https://github.com/HoneySpoons/tetracube)
+Four falling-block games wrapped around one isometric cube, with shared corners: a line
+cleared on one face can set off a cascade on the next. Arcade styling, a leaderboard, and
+an easter egg I won't spoil. The first version went live the same evening I had the idea. MIT.
+
 **[kuramoto.dev](https://kuramoto.dev)** · [source](https://github.com/HoneySpoons/kuramoto-dev)
 A small interactive study of emergence, oscillation, and coupled systems — double
 pendulums, Riemann sums, coupled oscillators finding phase. Every piece is one
