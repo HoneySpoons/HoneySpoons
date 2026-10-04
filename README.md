@@ -26,5 +26,5 @@ verbs, and the hardening that keeps four agents from stepping on each other.
 
 ---
 
-Currently running Omarchy on a resurrected 2014 MacBook, mostly to find out what breaks.
-So far: the battery gauge, and it wasn't Omarchy's fault.
+Building on Omarchy across two machines, zettelkasten and strogatz, with a four-agent
+Claude Code setup that keeps them in step.
